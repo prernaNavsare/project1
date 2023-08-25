@@ -9,7 +9,7 @@ h1{
 }
 .one{
     background: radial-gradient(#fff,#ffd6d6);
-    border:  double 2px solid black;
-    font-size: 50px;
+    font-size: 30px;
+    border: 5px solid black;
 
 }
