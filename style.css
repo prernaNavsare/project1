@@ -1,0 +1,14 @@
+h1{
+    background-color: yellow;
+    text-align: center;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+.one{
+    background: radial-gradient(#fff,#ffd6d6);
+    border: 2px solid black;
+    font-size: 50px;
+}
